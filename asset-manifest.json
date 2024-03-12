@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/lecture-task-4/static/js/main.53a202a4.chunk.js",
+    "main.js.map": "/lecture-task-4/static/js/main.53a202a4.chunk.js.map",
+    "runtime-main.js": "/lecture-task-4/static/js/runtime-main.fe61f50c.js",
+    "runtime-main.js.map": "/lecture-task-4/static/js/runtime-main.fe61f50c.js.map",
+    "static/js/2.017f4401.chunk.js": "/lecture-task-4/static/js/2.017f4401.chunk.js",
+    "static/js/2.017f4401.chunk.js.map": "/lecture-task-4/static/js/2.017f4401.chunk.js.map",
+    "index.html": "/lecture-task-4/index.html",
+    "static/js/2.017f4401.chunk.js.LICENSE.txt": "/lecture-task-4/static/js/2.017f4401.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe61f50c.js",
+    "static/js/2.017f4401.chunk.js",
+    "static/js/main.53a202a4.chunk.js"
+  ]
+}
